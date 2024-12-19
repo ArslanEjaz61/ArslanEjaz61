@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span>👋</span> Hi, I’m @ArslanEjaz61
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;" /> Hi, I’m @ArslanEjaz61
 </h1>
 <h3 align="center">MERN Stack Developer | Python Enthusiast | DevOps Explorer</h3>
 
