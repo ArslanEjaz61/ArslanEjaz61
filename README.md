@@ -7,9 +7,7 @@
 - 👀 Passionate about **Full Stack Development**, **Problem Solving**, **DevOps**, and **React Native**.  
 - 🌱 Currently enhancing my skills in **React Native**, **DevOps Tools**, and **Cloud Computing**.  
 - 💞️ Open to collaborating on **MERN Stack projects**, **RESTful APIs**, and **DevOps pipelines**.  
-- 📫 Reach me via: [Email](mailto:arslanejaz61@gmail.com) | [LinkedIn](www.linkedin.com/in/
-arslan-ejaz-8b717a240
-)  
+- 📫 Reach me via: [Email](mailto:arslanejaz61@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arslan-ejaz-8b717a240)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I enjoy **debugging** as much as **coding** and love exploring **innovative tools**.  
 
