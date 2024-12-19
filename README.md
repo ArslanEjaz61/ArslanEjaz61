@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I’m @ArslanEjaz61</h1>
+<h1 align="center">
+  <span>👋</span> Hi, I’m @ArslanEjaz61
+</h1>
 <h3 align="center">MERN Stack Developer | Python Enthusiast | DevOps Explorer</h3>
 
 ---
