@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanEjaz61&theme=radical" alt="Coding Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArslanEjaz61&theme=radical&hide_border=true" alt="Coding Streak">
 </p>
 
 ---
