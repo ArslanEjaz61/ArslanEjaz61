@@ -1,28 +1,6 @@
 <h1 align="center">
-  <span style="font-size: 40px; animation: wave-animation 1.5s infinite;">👋</span>
-  Hi, I’m @ArslanEjaz61
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;" /> Hi, I’m @ArslanEjaz61
 </h1>
-
-<style>
-  @keyframes wave-animation {
-    0% {
-      transform: rotate(0deg);
-    }
-    25% {
-      transform: rotate(15deg);
-    }
-    50% {
-      transform: rotate(0deg);
-    }
-    75% {
-      transform: rotate(-15deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-</style>
-
 <h3 align="center">MERN Stack Developer | Python Enthusiast | DevOps Explorer</h3>
 
 ---
